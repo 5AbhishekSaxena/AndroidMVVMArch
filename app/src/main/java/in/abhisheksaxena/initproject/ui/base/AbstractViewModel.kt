@@ -1,8 +1,8 @@
-package `in`.abhisheksaxena.baaten.ui.base
+package `in`.abhisheksaxena.initproject.ui.base
 
-import `in`.abhisheksaxena.baaten.MyApplication
-import `in`.abhisheksaxena.baaten.utils.Event
-import `in`.abhisheksaxena.baaten.utils.ToasterStyle
+import `in`.abhisheksaxena.initproject.MyApplication
+import `in`.abhisheksaxena.initproject.utils.Event
+import `in`.abhisheksaxena.initproject.utils.ToasterStyle
 import android.app.Application
 import androidx.annotation.StringRes
 import androidx.lifecycle.AndroidViewModel

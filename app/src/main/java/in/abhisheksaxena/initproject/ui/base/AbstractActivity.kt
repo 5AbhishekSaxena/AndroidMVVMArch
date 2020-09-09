@@ -1,6 +1,6 @@
-package `in`.abhisheksaxena.baaten.ui.base
+package `in`.abhisheksaxena.initproject.ui.base
 
-import `in`.abhisheksaxena.baaten.R
+import `in`.abhisheksaxena.initproject.R
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 

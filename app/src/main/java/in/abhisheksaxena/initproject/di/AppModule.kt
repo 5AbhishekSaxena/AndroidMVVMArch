@@ -1,4 +1,4 @@
-package `in`.abhisheksaxena.baaten.di
+package `in`.abhisheksaxena.initproject.di
 
 
 /**

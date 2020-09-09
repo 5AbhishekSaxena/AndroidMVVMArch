@@ -1,8 +1,8 @@
-package `in`.abhisheksaxena.baaten.ui.base
+package `in`.abhisheksaxena.initproject.ui.base
 
-import `in`.abhisheksaxena.baaten.R
-import `in`.abhisheksaxena.baaten.utils.EventObserver
-import `in`.abhisheksaxena.baaten.utils.ToasterStyle
+import `in`.abhisheksaxena.initproject.R
+import `in`.abhisheksaxena.initproject.utils.EventObserver
+import `in`.abhisheksaxena.initproject.utils.ToasterStyle
 import `in`.abhisheksaxena.toaster.Toaster
 import android.os.Bundle
 import android.view.LayoutInflater

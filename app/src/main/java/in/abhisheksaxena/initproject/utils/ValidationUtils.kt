@@ -1,4 +1,4 @@
-package `in`.abhisheksaxena.baaten.utils
+package `in`.abhisheksaxena.initproject.utils
 
 import android.util.Patterns
 

@@ -1,4 +1,4 @@
-package `in`.abhisheksaxena.baaten
+package `in`.abhisheksaxena.initproject
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
