@@ -1,8 +1,8 @@
-package `in`.abhisheksaxena.initproject.ui.base
+package `in`.abhisheksaxena.androidmvvmarch.ui.base
 
-import `in`.abhisheksaxena.initproject.R
-import `in`.abhisheksaxena.initproject.utils.EventObserver
-import `in`.abhisheksaxena.initproject.utils.ToasterStyle
+import `in`.abhisheksaxena.androidmvvmarch.R
+import `in`.abhisheksaxena.androidmvvmarch.utils.EventObserver
+import `in`.abhisheksaxena.androidmvvmarch.utils.ToasterStyle
 import `in`.abhisheksaxena.toaster.Toaster
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -52,7 +52,7 @@ abstract class AbstractFragment<B : ViewDataBinding, VM : AbstractViewModel> : F
     protected abstract fun onViewCreated(savedInstanceState: Bundle?)
 
     protected open fun subscribeToObservers() {
-        viewModel.snackbarText.observe(viewLifecycleOwner, Observer { event ->
+        viewModel.snackbarText.observe(viewLifecycleOwner, { event ->
             event.getContentIfNotHandled()?.let {
                 Snackbar.make(requireView(), it, Snackbar.LENGTH_SHORT).show()
             }

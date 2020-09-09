@@ -1,6 +1,6 @@
-package `in`.abhisheksaxena.initproject.ui.base
+package `in`.abhisheksaxena.androidmvvmarch.ui.base
 
-import `in`.abhisheksaxena.initproject.R
+import `in`.abhisheksaxena.androidmvvmarch.R
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 

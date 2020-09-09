@@ -1,4 +1,4 @@
-package `in`.abhisheksaxena.initproject.di
+package `in`.abhisheksaxena.androidmvvmarch.di
 
 
 /**

@@ -1,4 +1,4 @@
-package `in`.abhisheksaxena.initproject.utils
+package `in`.abhisheksaxena.androidmvvmarch.utils
 
 import androidx.lifecycle.Observer
 

@@ -1,4 +1,4 @@
-package `in`.abhisheksaxena.initproject
+package `in`.abhisheksaxena.androidmvvmarch
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
